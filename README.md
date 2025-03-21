@@ -95,3 +95,10 @@ The result will be displayed on the Streamlit app.
 **Streamlit for creating an easy-to-use interface.** <br>
 **ngrok for enabling public app sharing.** <br>
 
+## User Interface:
+![PICASSO](https://github.com/user-attachments/assets/66bbaaf3-34c1-4301-a711-f0418b5b62da)
+## Outputs:
+![Output](https://github.com/user-attachments/assets/c5fc6b7e-443a-464e-bfb9-2095940c8628)
+![PicassoOutput](https://github.com/user-attachments/assets/b57f0b64-c4a0-4246-be17-44736183086e)
+
+
