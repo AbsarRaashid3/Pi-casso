@@ -90,4 +90,8 @@ The AI will process the input and generate an answer.
 ### View the Answer:
 The result will be displayed on the Streamlit app.
 
+## Acknowledgments
+**Hugging Face for their powerful transformers and datasets libraries.**
+**Streamlit for creating an easy-to-use interface.**
+**ngrok for enabling public app sharing.**
 
