@@ -91,7 +91,7 @@ The AI will process the input and generate an answer.
 The result will be displayed on the Streamlit app.
 
 ## Acknowledgments
-**Hugging Face for their powerful transformers and datasets libraries.**
-**Streamlit for creating an easy-to-use interface.**
-**ngrok for enabling public app sharing.**
+**Hugging Face for their powerful transformers and datasets libraries.** <br>
+**Streamlit for creating an easy-to-use interface.** <br>
+**ngrok for enabling public app sharing.** <br>
 
