@@ -80,14 +80,14 @@ This will provide a public URL that can be shared with others.
 
 ## Usage
 **After running the app, follow these steps:**
-Enter an Emoji Math Riddle:
+### Enter an Emoji Math Riddle:
 Input an emoji equation such as:
 
 "🚀 + 🚀 = 18"
 "🍕 + 🍕 + 🍕 + 🍕 = 16"
-Press the Solve Button:
+### Press the Solve Button:
 The AI will process the input and generate an answer.
-View the Answer:
+### View the Answer:
 The result will be displayed on the Streamlit app.
 
 
